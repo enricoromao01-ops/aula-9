@@ -1,0 +1,6 @@
+{
+  "name": "Gestão de Receita por Aluno",
+  "description": "Sistema moderno de gestão financeira e análise de desempenho de cursos com foco no indicador primordial de Receita por Aluno.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
